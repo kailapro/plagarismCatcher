@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kailaprochaska/Desktop/EE 312/programs/plagarismCatcher/main.cpp
+sys/types.h
+-
+dirent.h
+-
+errno.h
+-
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+queue
+-
+cmath
+-
+algorithm
+-
+
